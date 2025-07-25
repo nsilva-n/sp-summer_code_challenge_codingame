@@ -1,0 +1,1 @@
+# sp-summer_code_challenge_codingame
